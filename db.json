@@ -1,0 +1,40 @@
+{
+"responseCode": "SUCCESS",
+"msg": "",
+"data": [
+{
+"Address1": "Level 6, next to shop #6.30",
+"Address2": "19 Martin Pl",
+"Address3": "MLC Centre",
+"Category": "POPStation",
+"Country": "AUSTRALIA",
+"DeliveryChoiceDescription": "POPStation@MLC Centre",
+"DeliveryChoiceID": "A05",
+"DeliveryChoiceName": "A05:POPStation@MLC Centre",
+"Distance": "0.3264",
+"Latitude": "-33.86785",
+"Longitude": "151.20964",
+"OperationHours": "Mon to Fri - 8AM to 5:30PM",
+"PostCode": "2000",
+"State": "NSW",
+"Suburb": "Sydney"
+},
+{
+"Address1": "Level 1 near parking lift, next to shop #11.04",
+"Address2": "644 George Street",
+"Address3": "World Square",
+"Category": "POPStation",
+"Country": "AUSTRALIA",
+"DeliveryChoiceDescription": "POPStation@World Square",
+"DeliveryChoiceID": "A06",
+"DeliveryChoiceName": "A06:POPStation@World Square",
+"Distance": "0.5131",
+"Latitude": "-33.873651",
+"Longitude": "151.20689",
+"OperationHours": "Mon to Fri - 7AM to 12AM, Sat and Sun - 24 hours",
+"PostCode": "2000",
+"State": "NSW",
+"Suburb": "Sydney"
+}
+]
+}
